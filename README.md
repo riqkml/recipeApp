@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Created By Riqki Kamal
+
+this mini project, i used https://developer.edamam.com/ for search recipe. thanks,
 
 ## Available Scripts
 
